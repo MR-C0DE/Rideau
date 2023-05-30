@@ -1,0 +1,150 @@
+﻿/* Mon propre code vient apres cette ligne de commentaire. */
+
+.wrapper {
+    margin: 0 auto;
+    max-width: 80rem;
+}
+
+.log-pcal {
+    font-weight: bold;
+}
+
+.logo-p {
+    background-color: #0156b4;
+    padding: 0 .5rem;
+    color: white;
+    border-radius: 3px;
+}
+
+.space-div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.content-div {
+    background-color: #eaedee;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 3.5%;
+    padding: 2%;
+    border-radius: 5px;
+}
+
+.content-detail {
+    background-color: #0156b4;
+    color: #fff;
+    padding: 1rem;
+    width: 30rem;
+    border-radius: 5px;
+}
+
+    .content-detail h2, h3, p, .content-detail button {
+        margin-bottom: 1.8rem;
+    }
+
+    .content-detail button {
+        border: none;
+        padding: .54rem 2rem;
+        font-weight: 700;
+        border-radius: 5px;
+    }
+
+.image-content img {
+    width: 45rem;
+    border-radius: 5px;
+}
+
+@media screen and (max-width: 88rem) {
+    .content-div {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: initial;
+        margin-top: 3.5%;
+        padding: 2%;
+        border-radius: 5px;
+    }
+
+    .image-content img {
+        width: 45rem;
+        border-radius: 5px;
+    }
+}
+
+
+/* PAGE LIBRAIRIE */
+.principale_librairie{
+    text-align: left;
+}
+.principale_librairie .titre-principale{
+    font-size:3rem;
+    text-align:center;
+    margin:2rem 0;
+}
+.contenu-lib {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap:wrap;
+    text-align:left;
+}
+.livre-contenu{
+
+    margin:1.5rem;
+    text-align:center;
+
+}
+.livre-contenu img {
+    width: 19rem;
+    border: 1.5px solid #a1a1a1;
+}
+.information-livre{
+    background-color:#0156b4;
+    margin:1rem 0;
+    padding:0.5rem 0;
+    color:#fff;
+}
+.livre-contenu h2 {
+    font-size: 1.6rem;
+    margin: 0rem 0;
+}
+
+
+/* DETAILS */
+.contenu-details{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+    width:55rem;
+    margin:0 auto;
+    margin-top:2.5rem;
+}
+
+.image-ctn img {
+    width: 22rem;
+    border: 1.5px solid #a1a1a1;
+}
+.info-details {
+    background-color: #eaedee;
+    width: 22rem;
+    padding: 2rem;
+}
+.info-details h2{
+    color:tan;
+    font-size:1.6rem;
+    margin-bottom: 1.5rem;
+}
+.info-details h3{
+    font-size:2rem;
+    text-transform:uppercase;
+}
+.info-details button {
+    border: none;
+    padding: .54rem 2rem;
+    font-weight: 700;
+    border-radius: 5px;
+    background-color: #0156b4;
+    color:white;
+}

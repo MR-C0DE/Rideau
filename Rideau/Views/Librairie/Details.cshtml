@@ -1,0 +1,47 @@
+﻿@model Rideau.Models.LivreVO
+@{
+}
+
+
+
+<div class="contenu-details">
+
+    <div class="image-ctn">
+        <img src="~/img/@ViewData["image"]"/>
+    </div>
+
+    <div class="info-details">
+ 
+        <h2>
+            Par @Html.DisplayFor(model => model.Auteur)
+        </h2>
+
+        <h3>
+            @Html.DisplayFor(model => model.Titre)
+        </h3>
+
+        <p>
+            @Html.DisplayFor(model => model.Description) -
+            <span>@Html.DisplayFor(model => model.Edition)</span> -
+            <span>@Html.DisplayFor(model => model.DatePuplication)</span>
+        </p>
+
+        <p>
+            @{
+                string[] coupe = (ViewData["image"].ToString()).Split(".");
+                string str = coupe[0];
+            }
+            <a asp-area="" asp-controller="Librairie" asp-action="Formulaire" asp-route-id="@str"><button>Magasiner - $15.99 </button></a>
+        </p>
+
+    </div>
+
+</div>
+
+
+
+
+
+
+
+    

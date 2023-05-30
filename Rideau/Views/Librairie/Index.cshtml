@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Rideau.Models.LivreVO>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="principale_librairie">
+
+    <div class="titre-principale">
+        <h1>Nouvelle tendance</h1>
+    </div>
+
+    <div class="contenu-lib">
+    @{
+        foreach (var item in Model) {
+            string image =  item.Id +  ".png";
+            <div class="livre-contenu">
+                <a asp-area="" asp-controller="Librairie" asp-action="Details"  asp-route-id="@item.Id"> 
+                    <img src="~/img/@image"/>
+                </a>
+                <div class="information-livre">
+                    <h2>@item.Auteur</h2>
+                    <p>@item.Edition</p>
+                </div>
+            </div>
+        } 
+
+       }
+    </div>
+</div>

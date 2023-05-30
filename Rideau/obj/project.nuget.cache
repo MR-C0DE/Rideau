@@ -1,0 +1,1495 @@
+{
+  "version": 2,
+  "dgSpecHash": "s8p5tR8zcrdDF28EjamUOoXkF0nQw9ArHDNNOk243gWE4ZmNDvi7cyIIexSVDoHXVrnJDOeBptPBwTTklkAxbg==",
+  "success": false,
+  "projectFilePath": "D:\\LA CITE\\4e Session\\Introduction aux technologies des serveurs web\\dote net\\Rideau\\Rideau\\Rideau.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andre\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\messagepackanalyzer\\2.1.152\\messagepackanalyzer.2.1.152.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\6.0.0\\microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.build\\17.0.0\\microsoft.build.17.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.build.framework\\17.0.0\\microsoft.build.framework.17.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.build.locator\\1.4.1\\microsoft.build.locator.1.4.1.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.2\\microsoft.codeanalysis.analyzers.3.3.2.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.codeanalysis.analyzerutilities\\3.3.0\\microsoft.codeanalysis.analyzerutilities.3.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.codeanalysis.common\\4.0.0\\microsoft.codeanalysis.common.4.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.0.0\\microsoft.codeanalysis.csharp.4.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.codeanalysis.csharp.features\\4.0.0\\microsoft.codeanalysis.csharp.features.4.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.codeanalysis.csharp.scripting\\4.0.0\\microsoft.codeanalysis.csharp.scripting.4.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.codeanalysis.csharp.workspaces\\4.0.0\\microsoft.codeanalysis.csharp.workspaces.4.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.codeanalysis.features\\4.0.0\\microsoft.codeanalysis.features.4.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.codeanalysis.razor\\6.0.0\\microsoft.codeanalysis.razor.6.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.codeanalysis.scripting.common\\4.0.0\\microsoft.codeanalysis.scripting.common.4.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\4.0.0\\microsoft.codeanalysis.visualbasic.4.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.codeanalysis.visualbasic.features\\4.0.0\\microsoft.codeanalysis.visualbasic.features.4.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.codeanalysis.visualbasic.workspaces\\4.0.0\\microsoft.codeanalysis.visualbasic.workspaces.4.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.codeanalysis.workspaces.common\\4.0.0\\microsoft.codeanalysis.workspaces.common.4.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.codeanalysis.workspaces.msbuild\\4.0.0\\microsoft.codeanalysis.workspaces.msbuild.4.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.diasymreader\\1.3.0\\microsoft.diasymreader.1.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.dotnet.scaffolding.shared\\6.0.2\\microsoft.dotnet.scaffolding.shared.6.0.2.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.3\\microsoft.entityframeworkcore.6.0.3.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.3\\microsoft.entityframeworkcore.abstractions.6.0.3.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.3\\microsoft.entityframeworkcore.analyzers.6.0.3.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.entityframeworkcore.design\\6.0.3\\microsoft.entityframeworkcore.design.6.0.3.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\6.0.3\\microsoft.entityframeworkcore.relational.6.0.3.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\6.0.2\\microsoft.entityframeworkcore.sqlserver.6.0.2.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\6.0.2\\microsoft.entityframeworkcore.tools.6.0.2.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\6.0.0\\microsoft.extensions.caching.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.extensions.caching.memory\\6.0.1\\microsoft.extensions.caching.memory.6.0.1.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.identity.client\\4.21.1\\microsoft.identity.client.4.21.1.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.8.0\\microsoft.identitymodel.jsonwebtokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.identitymodel.logging\\6.8.0\\microsoft.identitymodel.logging.6.8.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.8.0\\microsoft.identitymodel.protocols.6.8.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.8.0\\microsoft.identitymodel.protocols.openidconnect.6.8.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.8.0\\microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.net.stringtools\\1.0.0\\microsoft.net.stringtools.1.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.netcore.targets\\1.1.3\\microsoft.netcore.targets.1.1.3.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.visualstudio.debugger.contracts\\17.2.0\\microsoft.visualstudio.debugger.contracts.17.2.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\6.0.2\\microsoft.visualstudio.web.codegeneration.6.0.2.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\6.0.2\\microsoft.visualstudio.web.codegeneration.core.6.0.2.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.design\\6.0.2\\microsoft.visualstudio.web.codegeneration.design.6.0.2.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.entityframeworkcore\\6.0.2\\microsoft.visualstudio.web.codegeneration.entityframeworkcore.6.0.2.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.templating\\6.0.2\\microsoft.visualstudio.web.codegeneration.templating.6.0.2.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.utils\\6.0.2\\microsoft.visualstudio.web.codegeneration.utils.6.0.2.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.visualstudio.web.codegenerators.mvc\\6.0.2\\microsoft.visualstudio.web.codegenerators.mvc.6.0.2.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\nuget.common\\5.11.0\\nuget.common.5.11.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\nuget.configuration\\5.11.0\\nuget.configuration.5.11.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\nuget.dependencyresolver.core\\5.11.0\\nuget.dependencyresolver.core.5.11.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\nuget.librarymodel\\5.11.0\\nuget.librarymodel.5.11.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\nuget.packaging\\5.11.0\\nuget.packaging.5.11.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\nuget.projectmodel\\5.11.0\\nuget.projectmodel.5.11.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\nuget.protocol\\5.11.0\\nuget.protocol.5.11.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\nuget.versioning\\5.11.0\\nuget.versioning.5.11.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\runtime.native.system.io.compression\\4.3.0\\runtime.native.system.io.compression.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\runtime.native.system.net.http\\4.3.0\\runtime.native.system.net.http.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\runtime.native.system.security.cryptography.apple\\4.3.0\\runtime.native.system.security.cryptography.apple.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\runtime.opensuse.13.2-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.opensuse.13.2-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\runtime.opensuse.42.1-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.opensuse.42.1-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple\\4.3.0\\runtime.osx.10.10-x64.runtime.native.system.security.cryptography.apple.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.rhel.7-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.14.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.composition\\1.0.31\\system.composition.1.0.31.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.composition.attributedmodel\\1.0.31\\system.composition.attributedmodel.1.0.31.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.composition.convention\\1.0.31\\system.composition.convention.1.0.31.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.composition.hosting\\1.0.31\\system.composition.hosting.1.0.31.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.composition.runtime\\1.0.31\\system.composition.runtime.1.0.31.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.composition.typedparts\\1.0.31\\system.composition.typedparts.1.0.31.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.diagnostics.tracing\\4.3.0\\system.diagnostics.tracing.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.formats.asn1\\5.0.0\\system.formats.asn1.5.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.globalization\\4.3.0\\system.globalization.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.globalization.calendars\\4.3.0\\system.globalization.calendars.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.globalization.extensions\\4.3.0\\system.globalization.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.8.0\\system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.io\\4.3.0\\system.io.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.io.compression\\4.3.0\\system.io.compression.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.io.compression.zipfile\\4.3.0\\system.io.compression.zipfile.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.io.filesystem\\4.3.0\\system.io.filesystem.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.net.http\\4.3.0\\system.net.http.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.net.primitives\\4.3.0\\system.net.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.net.sockets\\4.3.0\\system.net.sockets.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.objectmodel\\4.3.0\\system.objectmodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.private.uri\\4.3.2\\system.private.uri.4.3.2.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.reflection\\4.3.0\\system.reflection.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.reflection.emit\\4.6.0\\system.reflection.emit.4.6.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.reflection.emit.ilgeneration\\4.3.0\\system.reflection.emit.ilgeneration.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.reflection.emit.lightweight\\4.6.0\\system.reflection.emit.lightweight.4.6.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.reflection.extensions\\4.3.0\\system.reflection.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.reflection.metadata\\5.0.0\\system.reflection.metadata.5.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.reflection.primitives\\4.3.0\\system.reflection.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.reflection.typeextensions\\4.3.0\\system.reflection.typeextensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.resources.resourcemanager\\4.3.0\\system.resources.resourcemanager.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.runtime.caching\\4.7.0\\system.runtime.caching.4.7.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.runtime.extensions\\4.3.0\\system.runtime.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.runtime.handles\\4.3.0\\system.runtime.handles.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.runtime.interopservices\\4.3.0\\system.runtime.interopservices.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.runtime.numerics\\4.3.0\\system.runtime.numerics.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.security.cryptography.algorithms\\4.3.0\\system.security.cryptography.algorithms.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.security.cryptography.csp\\4.3.0\\system.security.cryptography.csp.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.security.cryptography.encoding\\4.3.0\\system.security.cryptography.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.security.cryptography.openssl\\4.3.0\\system.security.cryptography.openssl.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.security.cryptography.pkcs\\5.0.0\\system.security.cryptography.pkcs.5.0.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.security.cryptography.primitives\\4.3.0\\system.security.cryptography.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.security.cryptography.protecteddata\\4.7.0\\system.security.cryptography.protecteddata.4.7.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.security.cryptography.x509certificates\\4.3.0\\system.security.cryptography.x509certificates.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.security.permissions\\4.7.0\\system.security.permissions.4.7.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.text.encoding.codepages\\4.7.0\\system.text.encoding.codepages.4.7.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\system.text.regularexpressions.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.threading.tasks.dataflow\\4.9.0\\system.threading.tasks.dataflow.4.9.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
+    "C:\\Users\\Andre\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Design"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGenerators.Mvc"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Templating"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.VisualStudio.Web.CodeGeneration.Utils"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.Build"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.Build.Framework"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Security.Permissions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Security.AccessControl"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.NETCore.Platforms"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Windows.Extensions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Drawing.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.Win32.SystemEvents"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.NET.StringTools"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Memory"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Runtime.CompilerServices.Unsafe"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.Win32.Registry"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.NETCore.Platforms"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Collections"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.NETCore.Targets"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Globalization"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Resources.ResourceManager"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Reflection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.IO"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Text.Encoding"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Threading.Tasks"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Reflection.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Runtime.Extensions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Runtime.Handles"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Runtime.InteropServices"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Configuration.ConfigurationManager"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Security.Cryptography.ProtectedData"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Reflection.Metadata"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Security.Principal.Windows"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Text.Encoding.CodePages"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.NETCore.Platforms"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Collections"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.NETCore.Targets"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Globalization"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.IO"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Threading.Tasks"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Reflection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Reflection.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Resources.ResourceManager"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Runtime.Extensions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Runtime.Handles"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Runtime.InteropServices"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Text.Encoding"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Threading"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Text.Json"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Threading.Tasks.Dataflow"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp.Workspaces"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.CodeAnalysis.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.CodeAnalysis.Analyzers"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Reflection.Metadata"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Text.Encoding.CodePages"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.NETCore.Platforms"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Threading.Tasks.Extensions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.CodeAnalysis.Workspaces.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.Bcl.AsyncInterfaces"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Composition"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Composition.AttributedModel"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Composition.Convention"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Diagnostics.Debug"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Diagnostics.Tools"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Linq"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Linq.Expressions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.ObjectModel"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Reflection.Emit"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Reflection.Emit.ILGeneration"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Reflection.Emit.Lightweight"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Reflection.TypeExtensions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Reflection.Extensions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Threading"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Composition.Hosting"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Composition.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Composition.TypedParts"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.IO.Pipelines"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Humanizer.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "NETStandard.Library"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.Win32.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.AppContext"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Collections.Concurrent"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Console"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Diagnostics.Tracing"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Globalization.Calendars"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.IO.Compression"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "runtime.native.System"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "runtime.native.System.IO.Compression"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Buffers"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.IO.Compression.ZipFile"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.IO.FileSystem"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.IO.FileSystem.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Net.Http"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "runtime.native.System.Net.Http"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "runtime.native.System.Security.Cryptography.OpenSsl"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "runtime.opensuse.13.2-x64.runtime.native.System.Security.Cryptography.OpenSsl"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "runtime.opensuse.42.1-x64.runtime.native.System.Security.Cryptography.OpenSsl"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.OpenSsl"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "runtime.rhel.7-x64.runtime.native.System.Security.Cryptography.OpenSsl"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "runtime.ubuntu.14.04-x64.runtime.native.System.Security.Cryptography.OpenSsl"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "runtime.ubuntu.16.04-x64.runtime.native.System.Security.Cryptography.OpenSsl"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "runtime.ubuntu.16.10-x64.runtime.native.System.Security.Cryptography.OpenSsl"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Diagnostics.DiagnosticSource"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Globalization.Extensions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Security.Cryptography.OpenSsl"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Net.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Net.Sockets"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Runtime.InteropServices.RuntimeInformation"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Runtime.Numerics"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Security.Cryptography.Algorithms"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "runtime.native.System.Security.Cryptography.Apple"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "runtime.osx.10.10-x64.runtime.native.System.Security.Cryptography.Apple"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Security.Cryptography.Encoding"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Security.Cryptography.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Security.Cryptography.X509Certificates"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Security.Cryptography.Cng"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Security.Cryptography.Csp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Text.Encoding.Extensions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Text.RegularExpressions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Threading.Timer"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Xml.ReaderWriter"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Threading.Tasks.Extensions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Xml.XDocument"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.AspNetCore.Razor.Language"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.CodeAnalysis.Razor"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.CodeAnalysis.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Newtonsoft.Json"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.Extensions.DependencyInjection.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Runtime.CompilerServices.Unsafe"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Collections.Immutable"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.DotNet.Scaffolding.Shared"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp.Features"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.CodeAnalysis.CSharp.Scripting"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.CodeAnalysis.Scripting.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.CSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Dynamic.Runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.CodeAnalysis.Features"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.CodeAnalysis.AnalyzerUtilities"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.DiaSymReader"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.VisualStudio.Debugger.Contracts"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "MessagePack"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "MessagePack.Annotations"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Memory"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Reflection.Emit"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Reflection.Emit.Lightweight"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Runtime.CompilerServices.Unsafe"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "MessagePackAnalyzer"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.Bcl.AsyncInterfaces"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.CodeAnalysis.VisualBasic.Features"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.CodeAnalysis.VisualBasic"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.CodeAnalysis.VisualBasic.Workspaces"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.CodeAnalysis.Workspaces.MSBuild"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.Build.Framework"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Runtime.Serialization.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Threading.Thread"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Text.Json"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "NuGet.ProjectModel"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "NuGet.DependencyResolver.Core"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "NuGet.LibraryModel"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "NuGet.Common"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "NuGet.Frameworks"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "NuGet.Versioning"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "NuGet.Protocol"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "NuGet.Packaging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "NuGet.Configuration"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Security.Cryptography.ProtectedData"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Security.Cryptography.Cng"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Formats.Asn1"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Security.Cryptography.Pkcs"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.Build.Locator"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Private.Uri"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.NETCore.Platforms"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.NETCore.Targets"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.EntityFrameworkCore.SqlServer"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Relational"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Analyzers"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.Extensions.Caching.Memory"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.Extensions.Caching.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.Extensions.Logging.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.Extensions.Options"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.Extensions.Primitives"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.Extensions.Logging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Diagnostics.DiagnosticSource"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.Extensions.Configuration.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.Data.SqlClient"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.Data.SqlClient.SNI.runtime"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.Win32.Registry"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Text.Encoding.CodePages"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Diagnostics.DiagnosticSource"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Runtime.Caching"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.Identity.Client"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.IdentityModel.Protocols.OpenIdConnect"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.IdentityModel.Protocols"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.IdentityModel.Logging"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.IdentityModel.Tokens"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.CSharp"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.Security.Cryptography.Cng"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "System.IdentityModel.Tokens.Jwt"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.IdentityModel.JsonWebTokens"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Tools"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Design"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Relational"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.EntityFrameworkCore"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Abstractions"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Microsoft.EntityFrameworkCore.Analyzers"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "La source locale 'C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages' n’existe pas.",
+      "libraryId": "Humanizer.Core"
+    }
+  ]
+}

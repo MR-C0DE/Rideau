@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Rideau
+build_property.RootNamespace = Rideau
+build_property.ProjectDir = D:\LA CITE\4e Session\Introduction aux technologies des serveurs web\dote net\Rideau\Rideau\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\LA CITE\4e Session\Introduction aux technologies des serveurs web\dote net\Rideau\Rideau
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/LA CITE/4e Session/Introduction aux technologies des serveurs web/dote net/Rideau/Rideau/Views/Client/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LA CITE/4e Session/Introduction aux technologies des serveurs web/dote net/Rideau/Rideau/Views/Client/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LA CITE/4e Session/Introduction aux technologies des serveurs web/dote net/Rideau/Rideau/Views/Client/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LA CITE/4e Session/Introduction aux technologies des serveurs web/dote net/Rideau/Rideau/Views/Client/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LA CITE/4e Session/Introduction aux technologies des serveurs web/dote net/Rideau/Rideau/Views/Client/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LA CITE/4e Session/Introduction aux technologies des serveurs web/dote net/Rideau/Rideau/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LA CITE/4e Session/Introduction aux technologies des serveurs web/dote net/Rideau/Rideau/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LA CITE/4e Session/Introduction aux technologies des serveurs web/dote net/Rideau/Rideau/Views/Librairie/Confirmation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFpcmllXENvbmZpcm1hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LA CITE/4e Session/Introduction aux technologies des serveurs web/dote net/Rideau/Rideau/Views/Librairie/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFpcmllXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LA CITE/4e Session/Introduction aux technologies des serveurs web/dote net/Rideau/Rideau/Views/Librairie/Formulaire.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFpcmllXEZvcm11bGFpcmUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LA CITE/4e Session/Introduction aux technologies des serveurs web/dote net/Rideau/Rideau/Views/Librairie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlicmFpcmllXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LA CITE/4e Session/Introduction aux technologies des serveurs web/dote net/Rideau/Rideau/Views/Livre/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cmVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LA CITE/4e Session/Introduction aux technologies des serveurs web/dote net/Rideau/Rideau/Views/Livre/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cmVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LA CITE/4e Session/Introduction aux technologies des serveurs web/dote net/Rideau/Rideau/Views/Livre/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cmVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LA CITE/4e Session/Introduction aux technologies des serveurs web/dote net/Rideau/Rideau/Views/Livre/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cmVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LA CITE/4e Session/Introduction aux technologies des serveurs web/dote net/Rideau/Rideau/Views/Livre/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LA CITE/4e Session/Introduction aux technologies des serveurs web/dote net/Rideau/Rideau/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LA CITE/4e Session/Introduction aux technologies des serveurs web/dote net/Rideau/Rideau/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LA CITE/4e Session/Introduction aux technologies des serveurs web/dote net/Rideau/Rideau/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LA CITE/4e Session/Introduction aux technologies des serveurs web/dote net/Rideau/Rideau/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/LA CITE/4e Session/Introduction aux technologies des serveurs web/dote net/Rideau/Rideau/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-y6ckdr5og0
